@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PetApplication</string>
+    <string name="PetName">Pet Name</string>
+    <string name="PetBreed">PetBreed</string>
+    <string name="PetBreed1">Pet Breed</string>
+    <string name="Weight">Weight</string>
+    <string name="Description">Description</string>
+</resources>
